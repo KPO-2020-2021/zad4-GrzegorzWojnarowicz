@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDRONE_SCENE_lib.a CMakeFiles/DRONE_SCENE_lib.dir/src/Matrix3x3.cpp.o CMakeFiles/DRONE_SCENE_lib.dir/src/Matrix4x4.cpp.o CMakeFiles/DRONE_SCENE_lib.dir/src/example.cpp.o CMakeFiles/DRONE_SCENE_lib.dir/src/main.cpp.o CMakeFiles/DRONE_SCENE_lib.dir/src/scene.cpp.o
+/usr/bin/ranlib libDRONE_SCENE_lib.a

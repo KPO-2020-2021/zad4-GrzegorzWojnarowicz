@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/DRONE_SCENE_run.dir/src/Matrix3x3.cpp.o CMakeFiles/DRONE_SCENE_run.dir/src/Matrix4x4.cpp.o CMakeFiles/DRONE_SCENE_run.dir/src/example.cpp.o CMakeFiles/DRONE_SCENE_run.dir/src/main.cpp.o CMakeFiles/DRONE_SCENE_run.dir/src/scene.cpp.o -o DRONE_SCENE_run  lib/GNUPlot/libGNUPlot_lib.a 

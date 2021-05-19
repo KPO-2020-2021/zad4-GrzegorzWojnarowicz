@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/DRONE_SCENE_tst.dir/Formula-test.cpp.o CMakeFiles/DRONE_SCENE_tst.dir/main.cpp.o -o DRONE_SCENE_tst  ../libDRONE_SCENE_lib.a ../lib/libgtestd.a -lpthread 

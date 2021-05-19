@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGNUPlot_lib.a CMakeFiles/GNUPlot_lib.dir/lacze_do_gnuplota.cpp.o
+/usr/bin/ranlib libGNUPlot_lib.a
